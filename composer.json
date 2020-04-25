@@ -4,10 +4,9 @@
     "homepage": "https://github.com/laravel-notification-channels/vfirst",
     "license": "MIT",
     "require": {
-        "php": ">=7",
-        "illuminate/notifications": "5.*|^6.0",
-        "illuminate/support": "5.*|^6.0",
-        "illuminate/events": "5.*|^6.0"
+        "illuminate/notifications": "^5|^6|^7",
+        "illuminate/support": "^5|^6|^7",
+        "illuminate/events": "^5|^6|^7"
     },
     "require-dev": {
         "mockery/mockery": "^0.9.5",
