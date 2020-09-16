@@ -1,7 +1,7 @@
 {
-    "name": "laravel-notification-channels/vfirst",
+    "name": "diviky/laravel-notification-channel-vfirst",
     "description": "Value First Notifications driver for sms",
-    "homepage": "https://github.com/laravel-notification-channels/vfirst",
+    "homepage": "https://github.com/sankarsuda/laravel-notification-channel-vfirst",
     "license": "MIT",
     "require": {
         "illuminate/notifications": "^5|^6|^7",
@@ -30,9 +30,7 @@
     },
     "extra": {
         "laravel": {
-            "providers": [
-                "NotificationChannels\\Vfirst\\ServiceProvider"
-            ]
+            "providers": ["NotificationChannels\\Vfirst\\ServiceProvider"]
         }
     },
     "minimum-stability": "dev"

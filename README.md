@@ -18,7 +18,7 @@
 You can install the package via composer:
 
 ``` bash
-composer require laravel-notification-channels/vfirst
+composer require diviky/laravel-notification-channel-vfirst
 ```
 
 ### Setting up your account
